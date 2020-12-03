@@ -1,0 +1,11 @@
+{
+  "name": "i-am-busy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^6.2.0",
+    "faker": "^5.1.0"
+  }
+}
