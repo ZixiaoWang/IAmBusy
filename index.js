@@ -24,3 +24,4 @@ ImBusy.onWebpack = webpack;
 // TODO
 // Will be removed
 ImBusy.onWebpack();
+// ImBusy.onTsLint();
