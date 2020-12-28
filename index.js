@@ -14,6 +14,7 @@ const colors = require('colors');
 const tslint = require('./lib/tslint.js');
 const webpack = require('./lib/webpack.js');
 const coding = require('./lib/coding.js');
+const cyberpunk = require('./lib/cyberpunk')
 
 function ImBusy() {
     console.log('Compiling...');
@@ -22,8 +23,10 @@ function ImBusy() {
 ImBusy.onTsLint = tslint;
 ImBusy.onWebpack = webpack;
 ImBusy.onCoding = coding;
+ImBusy.onCyberpunk = cyberpunk;
 
 // TODO
-ImBusy.onCoding();
+ImBusy.onCyberpunk();
+// ImBusy.onCoding();
 // ImBusy.onWebpack();
 // ImBusy.onTsLint();
