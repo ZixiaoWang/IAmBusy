@@ -1,12 +1,12 @@
 {
-  "name": "i-am-busy",
+  "name": "im-busy",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
     "colors": "^1.4.0",
-    "commander": "^6.2.0",
+    "commander": "^6.2.1",
     "faker": "^5.1.0",
     "inquirer": "^7.3.3"
   },
