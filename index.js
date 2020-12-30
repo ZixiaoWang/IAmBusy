@@ -19,7 +19,7 @@ const cyberpunk = require('./lib/cyberpunk');
 
 const randomItem = require('./lib/utils/random-array-item');
 function ImBusy() {
-    const fn = [tslint, webpack, coding, cyberpunk];
+    const fn = randomItem([tslint, webpack, coding, cyberpunk]);
     console.clear();
     fn();
 }
