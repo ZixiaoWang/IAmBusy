@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "bin": {
+    "imbusy": "./index.js"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "colors": "^1.4.0",
