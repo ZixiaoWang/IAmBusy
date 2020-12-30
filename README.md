@@ -7,7 +7,7 @@ If you don't wanna other people to see you're not working, this tool may help yo
 ----
 ### How to use it?
 ```
-    yarn global add imbusy (or npm install -g imbusy)
+    yarn global add @jacky/imbusy (or npm install -g @jacky/imbusy)
     imbusy on <task>
 ```
 
