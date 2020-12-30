@@ -8,7 +8,7 @@
 ----
 ### 怎么安装？
 ```
-    yarn global add @jacky/imbusy (or npm install -g @jacky/imbusy)
+    yarn global add imbusy (or npm install -g imbusy)
     imbusy on <task>
 ```
 
